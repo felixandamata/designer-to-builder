@@ -1,4 +1,4 @@
-# Designer to Builder
+# Designer to Builder - Kalie Version 1.1.0
 
 This is the working codebase for the Figma **Designer to Builder** livestream series: a beginner-friendly walkthrough of turning a Figma component into reviewable code with Figma MCP and a coding agent.
 
@@ -34,3 +34,4 @@ The component and token directories are empty in the starting scaffold. The blan
 ## View locally
 
 Clone the repository and open `index.html` in a browser. No installation or build command is required.
+first commit
