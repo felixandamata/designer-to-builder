@@ -1,0 +1,1392 @@
+{
+  "name": "Theme",
+  "id": "VariableCollectionId:6:657",
+  "modes": [
+    {
+      "name": "Light",
+      "modeId": "6:2"
+    },
+    {
+      "name": "Dark",
+      "modeId": "9:3"
+    }
+  ],
+  "variables": [
+    {
+      "name": "Typography/Heading Large/Font family",
+      "id": "VariableID:6:663",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-large-font-family)"
+      },
+      "valuesByMode": {
+        "Light": "Google Sans Flex",
+        "Dark": "Google Sans Flex"
+      }
+    },
+    {
+      "name": "Typography/Heading Large/Font weight",
+      "id": "VariableID:6:664",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-large-font-weight)"
+      },
+      "valuesByMode": {
+        "Light": "Medium",
+        "Dark": "Medium"
+      }
+    },
+    {
+      "name": "Typography/Heading Large/Font size",
+      "id": "VariableID:6:658",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-large-font-size)"
+      },
+      "valuesByMode": {
+        "Light": 24,
+        "Dark": 24
+      }
+    },
+    {
+      "name": "Typography/Heading Large/Line height",
+      "id": "VariableID:6:659",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-large-line-height)"
+      },
+      "valuesByMode": {
+        "Light": 26.399999618530273,
+        "Dark": 26.399999618530273
+      }
+    },
+    {
+      "name": "Typography/Heading Large/Letter spacing",
+      "id": "VariableID:6:660",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-large-letter-spacing)"
+      },
+      "valuesByMode": {
+        "Light": -0.25,
+        "Dark": -0.25
+      }
+    },
+    {
+      "name": "Typography/Heading/Font family",
+      "id": "VariableID:6:665",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-font-family)"
+      },
+      "valuesByMode": {
+        "Light": "Google Sans Flex",
+        "Dark": "Google Sans Flex"
+      }
+    },
+    {
+      "name": "Typography/Heading/Font weight",
+      "id": "VariableID:6:666",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-font-weight)"
+      },
+      "valuesByMode": {
+        "Light": "Medium",
+        "Dark": "Medium"
+      }
+    },
+    {
+      "name": "Typography/Heading/Font size",
+      "id": "VariableID:6:667",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-font-size)"
+      },
+      "valuesByMode": {
+        "Light": 20,
+        "Dark": 20
+      }
+    },
+    {
+      "name": "Typography/Heading/Line height",
+      "id": "VariableID:6:668",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-line-height)"
+      },
+      "valuesByMode": {
+        "Light": 22,
+        "Dark": 22
+      }
+    },
+    {
+      "name": "Typography/Heading/Letter spacing",
+      "id": "VariableID:6:669",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-heading-letter-spacing)"
+      },
+      "valuesByMode": {
+        "Light": -0.25,
+        "Dark": -0.25
+      }
+    },
+    {
+      "name": "Typography/Body/Font family",
+      "id": "VariableID:7:678",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-font-family)"
+      },
+      "valuesByMode": {
+        "Light": "Google Sans Flex",
+        "Dark": "Google Sans Flex"
+      }
+    },
+    {
+      "name": "Typography/Body Strong/Font family",
+      "id": "VariableID:6:672",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-strong-font-family)"
+      },
+      "valuesByMode": {
+        "Light": "Google Sans Flex",
+        "Dark": "Google Sans Flex"
+      }
+    },
+    {
+      "name": "Typography/Body Strong/Font weight",
+      "id": "VariableID:6:673",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-strong-font-weight)"
+      },
+      "valuesByMode": {
+        "Light": "Medium",
+        "Dark": "Medium"
+      }
+    },
+    {
+      "name": "Typography/Body Strong/Font size",
+      "id": "VariableID:6:674",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-strong-font-size)"
+      },
+      "valuesByMode": {
+        "Light": 16,
+        "Dark": 16
+      }
+    },
+    {
+      "name": "Typography/Body Strong/Line height",
+      "id": "VariableID:6:675",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-strong-line-height)"
+      },
+      "valuesByMode": {
+        "Light": 20.799999237060547,
+        "Dark": 20.799999237060547
+      }
+    },
+    {
+      "name": "Typography/Body Strong/Letter spacing",
+      "id": "VariableID:6:676",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-strong-letter-spacing)"
+      },
+      "valuesByMode": {
+        "Light": 0,
+        "Dark": 0
+      }
+    },
+    {
+      "name": "Typography/Body Small/Font family",
+      "id": "VariableID:7:684",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-font-family)"
+      },
+      "valuesByMode": {
+        "Light": "Google Sans Flex",
+        "Dark": "Google Sans Flex"
+      }
+    },
+    {
+      "name": "Typography/Body Small Strong/Font family",
+      "id": "VariableID:8:690",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-strong-font-family)"
+      },
+      "valuesByMode": {
+        "Light": "Google Sans Flex",
+        "Dark": "Google Sans Flex"
+      }
+    },
+    {
+      "name": "Typography/Body Small Strong/Font weight",
+      "id": "VariableID:8:691",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-strong-font-weight)"
+      },
+      "valuesByMode": {
+        "Light": "Medium",
+        "Dark": "Medium"
+      }
+    },
+    {
+      "name": "Typography/Body Small Strong/Font size",
+      "id": "VariableID:8:692",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-strong-font-size)"
+      },
+      "valuesByMode": {
+        "Light": 12,
+        "Dark": 12
+      }
+    },
+    {
+      "name": "Typography/Body Small Strong/Line height",
+      "id": "VariableID:8:693",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-strong-line-height)"
+      },
+      "valuesByMode": {
+        "Light": 15.600000381469727,
+        "Dark": 15.600000381469727
+      }
+    },
+    {
+      "name": "Typography/Body Small Strong/Letter spacing",
+      "id": "VariableID:8:694",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-strong-letter-spacing)"
+      },
+      "valuesByMode": {
+        "Light": 0,
+        "Dark": 0
+      }
+    },
+    {
+      "name": "Typography/Body Small/Font weight",
+      "id": "VariableID:7:685",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-font-weight)"
+      },
+      "valuesByMode": {
+        "Light": "Regular",
+        "Dark": "Regular"
+      }
+    },
+    {
+      "name": "Typography/Body Small/Font size",
+      "id": "VariableID:7:686",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-font-size)"
+      },
+      "valuesByMode": {
+        "Light": 12,
+        "Dark": 12
+      }
+    },
+    {
+      "name": "Typography/Body Small/Line height",
+      "id": "VariableID:7:687",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-line-height)"
+      },
+      "valuesByMode": {
+        "Light": 15.600000381469727,
+        "Dark": 15.600000381469727
+      }
+    },
+    {
+      "name": "Typography/Body Small/Letter spacing",
+      "id": "VariableID:7:688",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-small-letter-spacing)"
+      },
+      "valuesByMode": {
+        "Light": 0,
+        "Dark": 0
+      }
+    },
+    {
+      "name": "Typography/Body/Font weight",
+      "id": "VariableID:7:679",
+      "type": "STRING",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-font-weight)"
+      },
+      "valuesByMode": {
+        "Light": "Regular",
+        "Dark": "Regular"
+      }
+    },
+    {
+      "name": "Typography/Body/Font size",
+      "id": "VariableID:7:680",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-font-size)"
+      },
+      "valuesByMode": {
+        "Light": 16,
+        "Dark": 16
+      }
+    },
+    {
+      "name": "Typography/Body/Line height",
+      "id": "VariableID:7:681",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-line-height)"
+      },
+      "valuesByMode": {
+        "Light": 20.799999237060547,
+        "Dark": 20.799999237060547
+      }
+    },
+    {
+      "name": "Typography/Body/Letter spacing",
+      "id": "VariableID:7:682",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--typography-body-letter-spacing)"
+      },
+      "valuesByMode": {
+        "Light": 0,
+        "Dark": 0
+      }
+    },
+    {
+      "name": "Background/Page",
+      "id": "VariableID:8:696",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-page)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:69",
+          "name": "Primitives Color/White/White"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:85",
+          "name": "Primitives Color/Grey/800"
+        }
+      }
+    },
+    {
+      "name": "Background/Base",
+      "id": "VariableID:9:1395",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-base)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:69",
+          "name": "Primitives Color/White/White"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:84",
+          "name": "Primitives Color/Grey/700"
+        }
+      }
+    },
+    {
+      "name": "Background/Brand/Subtle",
+      "id": "VariableID:9:1379",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-brand-subtle)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:587",
+          "name": "Primitives Color/Brand/100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:594",
+          "name": "Primitives Color/Brand/800"
+        }
+      }
+    },
+    {
+      "name": "Background/Brand/Muted",
+      "id": "VariableID:9:1378",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-brand-muted)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:588",
+          "name": "Primitives Color/Brand/200"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:593",
+          "name": "Primitives Color/Brand/700"
+        }
+      }
+    },
+    {
+      "name": "Background/Brand/Strong",
+      "id": "VariableID:9:1380",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-brand-strong)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:589",
+          "name": "Primitives Color/Brand/300"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:592",
+          "name": "Primitives Color/Brand/600"
+        }
+      }
+    },
+    {
+      "name": "Background/Brand/Pop",
+      "id": "VariableID:9:1381",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-brand-pop)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:591",
+          "name": "Primitives Color/Brand/500"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:591",
+          "name": "Primitives Color/Brand/500"
+        }
+      }
+    },
+    {
+      "name": "Border/Base",
+      "id": "VariableID:8:710",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--border-base)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:81",
+          "name": "Primitives Color/Grey/400"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:83",
+          "name": "Primitives Color/Grey/600"
+        }
+      }
+    },
+    {
+      "name": "Border/Brand",
+      "id": "VariableID:8:711",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--border-brand)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:590",
+          "name": "Primitives Color/Brand/400"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:592",
+          "name": "Primitives Color/Brand/600"
+        }
+      }
+    },
+    {
+      "name": "Border/Width",
+      "id": "VariableID:8:718",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--border-width)"
+      },
+      "valuesByMode": {
+        "Light": 0.5,
+        "Dark": 0.5
+      }
+    },
+    {
+      "name": "Foreground/Default/Primary",
+      "id": "VariableID:9:1374",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--foreground-default-primary)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:85",
+          "name": "Primitives Color/Grey/800"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:78",
+          "name": "Primitives Color/Grey/100"
+        }
+      }
+    },
+    {
+      "name": "Foreground/Default/Secondary",
+      "id": "VariableID:9:1375",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--foreground-default-secondary)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:84",
+          "name": "Primitives Color/Grey/700"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:79",
+          "name": "Primitives Color/Grey/200"
+        }
+      }
+    },
+    {
+      "name": "Radius/Base",
+      "id": "VariableID:8:702",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--radius-base)"
+      },
+      "valuesByMode": {
+        "Light": 8,
+        "Dark": 8
+      }
+    },
+    {
+      "name": "Padding/Base",
+      "id": "VariableID:8:704",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--padding-base)"
+      },
+      "valuesByMode": {
+        "Light": 8,
+        "Dark": 8
+      }
+    },
+    {
+      "name": "Padding/Loose",
+      "id": "VariableID:8:705",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--padding-loose)"
+      },
+      "valuesByMode": {
+        "Light": 12,
+        "Dark": 12
+      }
+    },
+    {
+      "name": "Shadow/Lift/Color",
+      "id": "VariableID:8:712",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--shadow-lift-color)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:70",
+          "name": "Primitives Color/Black/10"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:70",
+          "name": "Primitives Color/Black/10"
+        }
+      }
+    },
+    {
+      "name": "Shadow/Lift/X",
+      "id": "VariableID:8:713",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--shadow-lift-x)"
+      },
+      "valuesByMode": {
+        "Light": 0,
+        "Dark": 0
+      }
+    },
+    {
+      "name": "Shadow/Lift/Y",
+      "id": "VariableID:8:714",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--shadow-lift-y)"
+      },
+      "valuesByMode": {
+        "Light": 2,
+        "Dark": 2
+      }
+    },
+    {
+      "name": "Shadow/Lift/Blur",
+      "id": "VariableID:8:715",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--shadow-lift-blur)"
+      },
+      "valuesByMode": {
+        "Light": 4,
+        "Dark": 4
+      }
+    },
+    {
+      "name": "Shadow/Lift/Spread",
+      "id": "VariableID:8:716",
+      "type": "FLOAT",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--shadow-lift-spread)"
+      },
+      "valuesByMode": {
+        "Light": 0,
+        "Dark": 0
+      }
+    },
+    {
+      "name": "Foreground/Brand/Primary",
+      "id": "VariableID:9:1376",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--foreground-brand-primary)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:594",
+          "name": "Primitives Color/Brand/800"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:587",
+          "name": "Primitives Color/Brand/100"
+        }
+      }
+    },
+    {
+      "name": "Foreground/Brand/Secondary",
+      "id": "VariableID:9:1377",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--foreground-brand-secondary)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:593",
+          "name": "Primitives Color/Brand/700"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:588",
+          "name": "Primitives Color/Brand/200"
+        }
+      }
+    },
+    {
+      "name": "Background/Positive/Subtle",
+      "id": "VariableID:9:1386",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-positive-subtle)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:612",
+          "name": "Primitives Color/Green/100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:619",
+          "name": "Primitives Color/Green/800"
+        }
+      }
+    },
+    {
+      "name": "Background/Positive/Muted",
+      "id": "VariableID:9:1387",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-positive-muted)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:613",
+          "name": "Primitives Color/Green/200"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:618",
+          "name": "Primitives Color/Green/700"
+        }
+      }
+    },
+    {
+      "name": "Background/Positive/Strong",
+      "id": "VariableID:9:1388",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-positive-strong)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:614",
+          "name": "Primitives Color/Green/300"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:617",
+          "name": "Primitives Color/Green/600"
+        }
+      }
+    },
+    {
+      "name": "Background/Positive/Pop",
+      "id": "VariableID:9:1389",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-positive-pop)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:616",
+          "name": "Primitives Color/Green/500"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:616",
+          "name": "Primitives Color/Green/500"
+        }
+      }
+    },
+    {
+      "name": "Background/Negative/Subtle",
+      "id": "VariableID:9:1390",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-negative-subtle)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:603",
+          "name": "Primitives Color/Red/100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:610",
+          "name": "Primitives Color/Red/800"
+        }
+      }
+    },
+    {
+      "name": "Background/Negative/Muted",
+      "id": "VariableID:9:1391",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-negative-muted)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:604",
+          "name": "Primitives Color/Red/200"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:609",
+          "name": "Primitives Color/Red/700"
+        }
+      }
+    },
+    {
+      "name": "Background/Negative/Strong",
+      "id": "VariableID:9:1392",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-negative-strong)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:605",
+          "name": "Primitives Color/Red/300"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:608",
+          "name": "Primitives Color/Red/600"
+        }
+      }
+    },
+    {
+      "name": "Background/Negative/Pop",
+      "id": "VariableID:9:1393",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-negative-pop)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:607",
+          "name": "Primitives Color/Red/500"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:607",
+          "name": "Primitives Color/Red/500"
+        }
+      }
+    },
+    {
+      "name": "Background/Warning/Subtle",
+      "id": "VariableID:9:1382",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-warning-subtle)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:595",
+          "name": "Primitives Color/Orange/100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:602",
+          "name": "Primitives Color/Orange/800"
+        }
+      }
+    },
+    {
+      "name": "Background/Warning/Muted",
+      "id": "VariableID:9:1383",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-warning-muted)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:596",
+          "name": "Primitives Color/Orange/200"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:601",
+          "name": "Primitives Color/Orange/700"
+        }
+      }
+    },
+    {
+      "name": "Background/Warning/Strong",
+      "id": "VariableID:9:1384",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-warning-strong)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:597",
+          "name": "Primitives Color/Orange/300"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:600",
+          "name": "Primitives Color/Orange/600"
+        }
+      }
+    },
+    {
+      "name": "Background/Warning/Pop",
+      "id": "VariableID:9:1385",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--background-warning-pop)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:599",
+          "name": "Primitives Color/Orange/500"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:599",
+          "name": "Primitives Color/Orange/500"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Background",
+      "id": "VariableID:9:2221",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-background)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:69",
+          "name": "Primitives Color/White/White"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:84",
+          "name": "Primitives Color/Grey/700"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Background Active",
+      "id": "VariableID:9:2222",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-background-active)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:587",
+          "name": "Primitives Color/Brand/100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:588",
+          "name": "Primitives Color/Brand/200"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Foreground",
+      "id": "VariableID:9:2223",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-foreground)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:594",
+          "name": "Primitives Color/Brand/800"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:78",
+          "name": "Primitives Color/Grey/100"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Foreground Active",
+      "id": "VariableID:9:2224",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-foreground-active)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:594",
+          "name": "Primitives Color/Brand/800"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:594",
+          "name": "Primitives Color/Brand/800"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Border",
+      "id": "VariableID:9:2225",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-border)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:81",
+          "name": "Primitives Color/Grey/400"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:590",
+          "name": "Primitives Color/Brand/400"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Border Active",
+      "id": "VariableID:9:2226",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-border-active)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:590",
+          "name": "Primitives Color/Brand/400"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:589",
+          "name": "Primitives Color/Brand/300"
+        }
+      }
+    },
+    {
+      "name": "❖ Component/Accordion/Background Section",
+      "id": "VariableID:9:2228",
+      "type": "COLOR",
+      "description": "",
+      "scopes": [
+        "ALL_SCOPES"
+      ],
+      "codeSyntax": {
+        "WEB": "var(--component-accordion-background-section)"
+      },
+      "valuesByMode": {
+        "Light": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:587",
+          "name": "Primitives Color/Brand/100"
+        },
+        "Dark": {
+          "type": "VARIABLE_ALIAS",
+          "id": "VariableID:6:84",
+          "name": "Primitives Color/Grey/700"
+        }
+      }
+    }
+  ]
+}
